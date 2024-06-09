@@ -20,7 +20,7 @@ The Employee Management System is a web application designed to maintain informa
 
 3.Tejas-Backend Developer
 
-4.Sriya-i/ux Designer
+4.Sriya-ui/ux Designer
 
 5.Vignan-project Manager
 
