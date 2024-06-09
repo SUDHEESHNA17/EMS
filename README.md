@@ -1,8 +1,4 @@
 # EMS
-Here's a sample README for your Employee Management System project based on the information provided:
-
----
-
 # Employee Management System
 
 ## Overview
